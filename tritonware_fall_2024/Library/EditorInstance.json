@@ -1,6 +1,10 @@
 {
+<<<<<<< Updated upstream
 	"process_id" : 11906,
+=======
+	"process_id" : 28489,
+>>>>>>> Stashed changes
 	"version" : "2022.3.49f1",
-	"app_path" : "/Applications/Unity/Hub/Editor/2022.3.49f1/Unity.app",
-	"app_contents_path" : "/Applications/Unity/Hub/Editor/2022.3.49f1/Unity.app/Contents"
+	"app_path" : "/Users/jdanp133/Documents/UnityWork/2022.3.49f1/Unity.app",
+	"app_contents_path" : "/Users/jdanp133/Documents/UnityWork/2022.3.49f1/Unity.app/Contents"
 }
